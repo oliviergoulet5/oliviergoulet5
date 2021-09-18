@@ -19,3 +19,4 @@
 #### What I want to learn
 ![Rust](https://img.shields.io/badge/-Rust-906D51?style=for-the-badge&logo=rust)
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=for-the-badge&logo=webpack)
+![Elixir](https://img.shields.io/badge/-Elixir-9B40BB?style=for-the-badge&logo=elixir)
