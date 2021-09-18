@@ -9,6 +9,7 @@
 ![Next.js](https://img.shields.io/badge/-Nextjs-%232C3A42?style=for-the-badge&logo=nextdotjs)
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=for-the-badge&logo=tailwind-css)
 ![GraphQL](https://img.shields.io/badge/-Graphql-e535ab?style=for-the-badge&logo=graphql)
+![Prisma](https://img.shields.io/badge/-Prisma-%232C3A42?style=for-the-badge&logo=prisma)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-bad6ff?style=for-the-badge&logo=postgresql)
 ![Express](https://img.shields.io/badge/-Express-%232C3A42?style=for-the-badge&logo=express)
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=for-the-badge&logo=webpack)
