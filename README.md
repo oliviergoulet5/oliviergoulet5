@@ -3,6 +3,7 @@
 
 📝 I am currently working on PrivaNote. A secure note taking app utilizing end-to-end encryption.
 
+<br/><br/>
 #### My Tech Stack
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=for-the-badge&logo=react)
