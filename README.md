@@ -1,7 +1,8 @@
 ### Hi there! My name is Olivier. 👋
 
+Check out my website: [oliviergoulet.dev](https://oliviergoulet.dev)
 
-📝 I am currently working on PrivaNote. A secure note taking app utilizing end-to-end encryption.
+It is still a work in progress.
 
 <br/><br/>
 #### My Tech Stack
