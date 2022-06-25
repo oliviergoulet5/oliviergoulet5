@@ -1,8 +1,8 @@
 ### Hi there! My name is Olivier. 👋
 
-Check out my website: [oliviergoulet.dev](https://oliviergoulet.dev)
-
-It is still a work in progress.
+Check out my links: 
+* [Portfolio](https://oliviergoulet.dev)
+* [LinkedIn](https://linkedin.com/in/olivier-goulet)
 
 <br/><br/>
 #### My Tech Stack
