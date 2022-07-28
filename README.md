@@ -1,6 +1,7 @@
 ### Hi there! My name is Olivier. 👋
 
 Check out my links: 
+* [GitLab](https://gitlab.eclipse.org/oliviergoulet)
 * [Portfolio](https://oliviergoulet.dev)
 * [LinkedIn](https://linkedin.com/in/olivier-goulet)
 
