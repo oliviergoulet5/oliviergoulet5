@@ -1,4 +1,4 @@
-### Hi there! My name is Olivier. 👋
+### About me
 
 Front-End Web Developer at the Eclipse Foundation.
 
