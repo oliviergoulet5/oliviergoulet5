@@ -1,8 +1,8 @@
 ### About me
 
-Front-End Web Developer at the Eclipse Foundation.
+Former Front-End Web Developer at the Eclipse Foundation.
 
-Maintainer for [Solstice Components](https://gitlab.eclipse.org/eclipsefdn/software-dev/frameworks-and-tools/solstice-components) and [Solstice Assets](https://gitlab.eclipse.org/eclipsefdn/software-dev/frameworks-and-tools/solstice-assets) (the Eclipse Foundation's component libraries), the [Hugo Solstice Theme](https://gitlab.eclipse.org/eclipsefdn/software-dev/frameworks-and-tools/hugo-solstice-theme), the [Eclipse Foundation website](https://www.eclipse.org), and various of the Working Group [websites](https://gitlab.eclipse.org/eclipsefdn/software-dev/websites).
+Previously a maintainer of [Solstice Components](https://gitlab.eclipse.org/eclipsefdn/software-dev/frameworks-and-tools/solstice-components) and [Solstice Assets](https://gitlab.eclipse.org/eclipsefdn/software-dev/frameworks-and-tools/solstice-assets), the Eclipse Foundation’s component libraries, as well as the [Hugo Solstice Theme](https://gitlab.eclipse.org/eclipsefdn/software-dev/frameworks-and-tools/hugo-solstice-theme), the [Eclipse Foundation website](https://www.eclipse.org), and various [Working Group websites](https://gitlab.eclipse.org/eclipsefdn/software-dev/websites).
 
 I also write occasionally on my [blog](https://oliviergoulet.dev).
 
